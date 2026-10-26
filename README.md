@@ -2,7 +2,9 @@
 
 A modern, high-performance web platform showcasing The Grand Atrium luxury shopping, fine dining, entertainment attractions, and events in Downtown Dubai.
 
-## 🔗 Repository
+## 🔗 Live Site & Repository
+- **Live URL**: [https://dubaimall.pages.dev](https://dubaimall.pages.dev)
+- **Deployment URL**: [https://1f316dcb.dubaimall.pages.dev](https://1f316dcb.dubaimall.pages.dev)
 - **GitHub Repository**: [sahilnaseer0123-png/dubaimall](https://github.com/sahilnaseer0123-png/dubaimall)
 - **Branch**: `main`
 
